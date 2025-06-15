@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente Trabalhando com a Linguagem C# focando na parte de Back-End
 - 📚 Estudando Aplicações Mobiles e projetos em SQL
-- 🥷🏽 Habilidades em HTML, CSS< Desing Gráfico
+- 🥷🏽 Habilidades em HTML, CSS, Desing Gráfico
 - 📫 Contato E-mail: lucasazevedo2k19@gmail.com
 - 📲 Cel: (14) 997752156
 - 
